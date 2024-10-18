@@ -675,7 +675,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = '';
+        ppgroup = 'https://ibb.co/7SKY0tg';
     }
 
     try {
