@@ -166,7 +166,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Scene-Md}...[][]");
+            console.log("\t [][]...{beltah-Md}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message sent from : " + nomGroupe);
@@ -248,7 +248,7 @@ function mybotpic() {
                 mybotpic
             
             };
-// This is where I added auto reaction! Don't snitch 🗿🤍
+// BELTAH MD DID EVERYTHING ,,,DO NOT COPY ...
 if (!superUser && origineMessage  === auteurMessage && conf.AUTO_REACT === "yes") {
 const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '🛰️', '🥔', '🎡', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '🪛', '🔨', '⛓️‍💥', '📌', '🗝️', '🔍', '🥁', '🔊', '🥾', '👢', '🩰', '👡', '🙂', '🎊', '🎉', '🎁', '⛑️', '👋']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
@@ -622,7 +622,7 @@ const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '�
                          /******************* PM_PERMT***************/
 
             if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
-                repondre("ERROR!! ❌\n\nYou don't have acces to commands here") ; return }
+                repondre("SORRY!! ❌\n\nYou don't have acces to commands here") ; return }
             ///////////////////////////////
 
              
@@ -682,21 +682,16 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `╔════◇◇◇═════╗
-║ welcome to new(s) member(s)
-║ *New(s) Member(s) :*
+            let msg = `👋 Hello
 `;
 
             let membres = group.participants;
             for (let membre of membres) {
-                msg += `║ @${membre.split("@")[0]}\n`;
+                msg += ` *@${membre.split("@")[0]}* Welcome to Our Official Group,`;
             }
 
-            msg += `║
-╚════◇◇◇═════╝
-◇ *Descriptioon*   ◇
-
-${metadata.desc}\n\n> POWERED BY BELTAH TECH TEAM.`;
+            msg += `You might want to read the group Description to avoid getting removed...
+> BELTAH-MD BOT © 2024.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -833,13 +828,13 @@ ${metadata.desc}\n\n> POWERED BY BELTAH TECH TEAM.`;
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Scene Md by Beltah installing cmds😇\n\n");
+                console.log(" Beltah-md installing cmds😇\n\n");
                 //chargement des commandes 
-                console.log("chargement des commandes ...\n");
-                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
+                console.log("chargement des plugins ...\n");
+                fs.readdirSync(__dirname + "/plugins").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/commandes/" + fichier);
+                            require(__dirname + "/plugins/" + fichier);
                             console.log(fichier + "Successfully installed Scene md commands✔️");
                         }
                         catch (e) {
