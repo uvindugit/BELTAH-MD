@@ -12,15 +12,15 @@
 <p/>
 <p align="center">
 <a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
-<a href="https://github.com/Beltahk/SCENE-MRM/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahk/SCENE-MRM?&style=social"></a>
-<a href="https://github.com/Beltahk/SCENE-MRM/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahk/SCENE-MRM?style=social"></a>
-<a href="https://github.com/Beltahk/SCENE-MRM/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahk/SCENE-MRM?label=Watching&style=social"></a>
+<a href="https://github.com/Huaweike/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Huaweike/AUTOMATIC-BOT?&style=social"></a>
+<a href="https://github.com/Huaweike/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahk/SCENE-MRM?style=social"></a>
+<a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP PROCEDURE
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Beltahk/SCENE-MRM/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Huaweike/AUTOMATIC-BOT/fork) It***
 
 ***2.`Get Session ID` by  [`PAIRING CODE`](https://bel-tah-sns.onrender.com/pair) or [`PAIR CODE 2`](https://bel-tah-sns.onrender.com/)***
 
@@ -36,7 +36,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBeltahk%2FMRM&org=beltahteam&template=https%3A%2F%2Fgithub.com%2FBeltahk%2FMRM"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FHuaweike%2FAUTOMATIC-BOT&org=beltahteam&template=https%3A%2F%2Fgithub.com%2FHuaweike%2FAUTOMATIC-BOT"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
