@@ -1,5 +1,4 @@
-
-- <h1 align="center"> SCENE-MULTI-DEVICE </h1>
+- <h1 align="center">SCENE-MULTI-DEVICE</h1>
 <p align="center">  
 
 ***
