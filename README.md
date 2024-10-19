@@ -1,4 +1,4 @@
-- <h1 align="center">SCENE-MULTI-DEVICE</h1>
+<h1 align="center">SCENE-MULTI-DEVICE</h1>
 <p align="center">  
 
 ***
@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/Beltahtech?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
 <a href="https://github.com/Huaweike/AUTOMATIC-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Huaweike/AUTOMATIC-BOT?&style=social"></a>
-<a href="https://github.com/Huaweike/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahk/SCENE-MRM?style=social"></a>
+<a href="https://github.com/Huaweike/AUTOMATIC-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Huaweike/AUTOMATIC-BOT?style=social"></a>
 <a href="https://github.com/Huaweike/AUTOMATIC-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Huaweike/AUTOMATIC-BOT?label=Watching&style=social"></a>
   
 ***
