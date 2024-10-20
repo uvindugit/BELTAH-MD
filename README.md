@@ -43,7 +43,8 @@
 
 
 ### DISCLAIMER 🛡 
-- Copying or modying this script is not allowed! For we shall not offer any help if any error occur!
+- Copying or modying this script is not
+allowed! For we shall not offer any help if any error occur!
 
 ***
 ### HELP :
@@ -55,3 +56,14 @@
 
 ### THANKS TO:
 GOD THE CREATOR ❤️
+### THANKS TO:
+- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For several Cmds Addition.
+- [***France King***](https://github.com/franceking1) For several latest Cmd scripts.
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **BELTAH-MD**
+
+
+
+
+
+
+BELTAH-MD BOT ©️ 2024 
