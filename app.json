@@ -27,6 +27,11 @@
       "value": "no",
       "required": false
     },
+    "AUTOREAD_MESSAGE": {
+      "description": "Your messages will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value": "yes",
+      "required": false
+    },
     "PM_PERMIT": {
       "description": "Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value": "no",
