@@ -271,8 +271,8 @@ zk.readMessages([ms.key]);
   }
 
     //ANTICALL BELTAH-MD 
-    
-            const zk = (0, baileys_1.default)(sockOptions);
+
+/*const zk = (0, baileys_1.default)(sockOptions);
         store.bind(zk.ev);
         setInterval(() => { store.writeToFile("store.json"); }, 3000);
         zk.ev.on("call", async (callData) => {
@@ -285,7 +285,7 @@ zk.readMessages([ms.key]);
       text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> 𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐁𝐎𝐓 © 𝟐𝟎𝟐𝟒 ."
     });
   }
-});
+});*/
 
             /************************ anti-delete-message */
 
