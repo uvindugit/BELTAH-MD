@@ -70,7 +70,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "😡𝐁𝐞𝐥𝐭𝐚𝐡 𝐤𝐞😡"
+      "value": "𝐁𝐞𝐥𝐭𝐚𝐡 𝐤𝐞"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
