@@ -29,7 +29,12 @@
     },
     "AUTOREAD_MESSAGE": {
       "description": "Your messages will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
+      "required": false
+    },
+    "ANTICALL": {
+      "description": "no calls on WhatsApp...reject automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
@@ -39,7 +44,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "SCENE-MD-V2",
+      "value": "BELTAH-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -54,7 +59,7 @@
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (OPTIONAL)",
-      "value" : "", 
+      "value" : "HRKU-6650b52e-9f81-4eda-8a1e-bfb12a79dd09", 
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -100,7 +105,7 @@
     "AUTO_REACTION": {
       "description": "Put yes if you want the bot to react to messages in private",
       "required": false,
-      "value": "yes"
+      "value": "no"
     }
   },
   "formation": {
