@@ -271,7 +271,7 @@ zk.readMessages([ms.key]);
   }
 
     //ANTICALL BELTAH-MD 
-    },
+    
             const zk = (0, baileys_1.default)(sockOptions);
         store.bind(zk.ev);
         setInterval(() => { store.writeToFile("store.json"); }, 3000);
